@@ -1,4 +1,4 @@
-# gephi-twitterex
+# gephi Twitterex TI Visualization
 
 Twitter tag-item graph visualization
 
